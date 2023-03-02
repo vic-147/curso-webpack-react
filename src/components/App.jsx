@@ -1,4 +1,5 @@
-import React from 'react'
+//con la configuatcion de babel ya no es necesario importar react
+//import React from 'react'
 
 const App = () => {
   return (
